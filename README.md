@@ -1,2 +1,3 @@
 # my_diploma
-Here you can find all my programms which helped me become a bachelor
+
+My work is about rotations in space with quaternions and geometric algebra. So I wrote some programms with Python and visualized them with Matplotlib. Also I used modules quaternion and clifford for special functions.
